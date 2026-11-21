@@ -39,7 +39,7 @@
 | competition | 届次、阶段、模板、克隆 | 档案内容本身 | `../10-concepts/competition-lifecycle.md` |
 | intake | 收集箱、处理链、入档关联 | AI 处理 | `../10-concepts/ai-collaboration.md` |
 | organization | 成员、组、岗位、任职、权限 | 绩效、考勤 | `../10-concepts/organization-model.md` |
-| affairs | 任务、通知、日历、负载 | 通用 IM、项目管理 | `../20-requirements/features.md` |
+| affairs | 任务、通知、日历、负载、外部接洽跟进 | 通用 IM、项目管理 | `../20-requirements/features.md` |
 | portal | 公开页面、发布状态、报名/咨询入口 | 内部数据展示 | `../20-requirements/information-architecture.md` |
 | handover | 岗位包、赛事包、导出、核对 | 文件长期存储 | `../50-operations/handover.md` |
 | platform | 身份、鉴权、搜索、审计、通知、备份 | 业务规则 | 本文档 |
