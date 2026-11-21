@@ -7,7 +7,7 @@
 1. `00-charter.md` — 为什么做、做到什么算成功
 2. `01-roadmap.md` — 先做什么、后做什么
 3. `10-concepts/` — 四个核心模型
-4. `20-requirements/` — 要哪些功能、页面怎么组织
+4. `20-requirements/` — 要哪些功能、页面怎么组织、板块怎么设计
 5. `30-architecture/` — 模块边界与数据流
 6. `50-operations/handover.md` — 系统最终要解决的交接问题
 
@@ -16,7 +16,7 @@
 | 目录 | 内容 |
 |---|---|
 | `10-concepts/` | 档案、赛事生命周期、组织、AI 协同四个概念模型 |
-| `20-requirements/` | 功能清单与信息架构 |
+| `20-requirements/` | 功能清单、信息架构、系统蓝图（页面/板块/逻辑） |
 | `30-architecture/` | 系统总览、技术选型标准（暂不决策） |
 | `40-research/` | 同类系统对比框架、历年资料盘点模板 |
 | `50-operations/` | 交接与运营手册 |

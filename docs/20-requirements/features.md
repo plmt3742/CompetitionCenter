@@ -1,5 +1,7 @@
 # 功能清单
 
+> 页面、板块与交互的落地设计见 [`blueprint/README.md`](blueprint/README.md)。本文只定功能与优先级。
+
 ## 优先级
 
 | 标记 | 含义 |
