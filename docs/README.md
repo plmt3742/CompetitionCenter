@@ -11,6 +11,7 @@
 5. `30-architecture/` — 模块边界与数据流
 6. `50-operations/handover.md` — 系统最终要解决的交接问题
 7. `20-requirements/blueprint/wireframes.html` — 低保真线框（浏览器打开）
+8. `20-requirements/blueprint/hifi-workspace/index.html` — 内部工作台高保真（浏览器打开）
 
 ## 目录
 
