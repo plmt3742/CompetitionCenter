@@ -41,6 +41,7 @@ P0 设计。本轮产出是 `docs/` 下的模型与需求文档，不是可运�
 | [`docs/20-requirements/features.md`](docs/20-requirements/features.md) | 功能清单与 MVP 切割线 |
 | [`docs/20-requirements/information-architecture.md`](docs/20-requirements/information-architecture.md) | 公开端/内部端站点地图与权限 |
 | [`docs/20-requirements/blueprint/README.md`](docs/20-requirements/blueprint/README.md) | 系统→页面→板块→板块设计→设计逻辑 |
+| [`docs/20-requirements/blueprint/wireframes.html`](docs/20-requirements/blueprint/wireframes.html) | 公开端/内部端低保真线框图 |
 | [`docs/30-architecture/system-overview.md`](docs/30-architecture/system-overview.md) | 领域模块、数据流与边界 |
 | [`docs/50-operations/handover.md`](docs/50-operations/handover.md) | 岗位包、赛事交接包与交接流程 |
 
